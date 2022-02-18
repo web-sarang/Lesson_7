@@ -101,6 +101,10 @@ body {
     background: url('../img/check.svg') 0 5px  no-repeat;
 }
 
+.last {
+margin-bottom: 0;
+}
+
 .menu-link {
     display: inline-block;
     font-weight: 900;
