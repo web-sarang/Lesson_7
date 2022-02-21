@@ -101,6 +101,10 @@ body {
     background: url('../img/check.svg') 0 5px  no-repeat;
 }
 
+.bulleted-list-item:last-of-type {
+    margin: 0;
+}
+
 .last {
 margin-bottom: 0;
 }
